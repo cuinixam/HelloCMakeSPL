@@ -1,0 +1,2 @@
+class CMakeToolchain:
+    pass
